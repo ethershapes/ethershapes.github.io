@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dc2449c.chunk.css",
-    "main.js": "/static/js/main.43a4f33f.chunk.js",
-    "main.js.map": "/static/js/main.43a4f33f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d31d3f28.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d31d3f28.js.map",
+    "main.css": "/static/css/main.5f00e69b.chunk.css",
+    "main.js": "/static/js/main.7d9a2451.chunk.js",
+    "main.js.map": "/static/js/main.7d9a2451.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.de82c192.js",
+    "runtime-main.js.map": "/static/js/runtime-main.de82c192.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.1f5441c3.chunk.js": "/static/js/2.1f5441c3.chunk.js",
-    "static/js/2.1f5441c3.chunk.js.map": "/static/js/2.1f5441c3.chunk.js.map",
-    "static/js/3.0f2ceeb1.chunk.js": "/static/js/3.0f2ceeb1.chunk.js",
-    "static/js/3.0f2ceeb1.chunk.js.map": "/static/js/3.0f2ceeb1.chunk.js.map",
+    "static/js/2.9a8ceab2.chunk.js": "/static/js/2.9a8ceab2.chunk.js",
+    "static/js/2.9a8ceab2.chunk.js.map": "/static/js/2.9a8ceab2.chunk.js.map",
+    "static/js/3.b3695e6a.chunk.js": "/static/js/3.b3695e6a.chunk.js",
+    "static/js/3.b3695e6a.chunk.js.map": "/static/js/3.b3695e6a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b57b7cfd.chunk.css.map": "/static/css/2.b57b7cfd.chunk.css.map",
-    "static/css/main.7dc2449c.chunk.css.map": "/static/css/main.7dc2449c.chunk.css.map",
-    "static/js/2.1f5441c3.chunk.js.LICENSE.txt": "/static/js/2.1f5441c3.chunk.js.LICENSE.txt",
+    "static/css/main.5f00e69b.chunk.css.map": "/static/css/main.5f00e69b.chunk.css.map",
+    "static/js/2.9a8ceab2.chunk.js.LICENSE.txt": "/static/js/2.9a8ceab2.chunk.js.LICENSE.txt",
     "static/media/circle.svg": "/static/media/circle.609787e0.svg",
     "static/media/crescent.svg": "/static/media/crescent.6728a944.svg",
     "static/media/cross.svg": "/static/media/cross.1fe45239.svg",
@@ -28,6 +28,7 @@
     "static/media/heptagon.svg": "/static/media/heptagon.d6aad28e.svg",
     "static/media/hexagon.svg": "/static/media/hexagon.33c793c2.svg",
     "static/media/isosceles.svg": "/static/media/isosceles.86486b79.svg",
+    "static/media/loading.9228049d.svg": "/static/media/loading.9228049d.svg",
     "static/media/nonagon.svg": "/static/media/nonagon.c9ec5174.svg",
     "static/media/octagon.svg": "/static/media/octagon.c90815a0.svg",
     "static/media/oval.svg": "/static/media/oval.44272a2d.svg",
@@ -50,10 +51,10 @@
     "static/media/up.svg": "/static/media/up.4924cebc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d31d3f28.js",
+    "static/js/runtime-main.de82c192.js",
     "static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.1f5441c3.chunk.js",
-    "static/css/main.7dc2449c.chunk.css",
-    "static/js/main.43a4f33f.chunk.js"
+    "static/js/2.9a8ceab2.chunk.js",
+    "static/css/main.5f00e69b.chunk.css",
+    "static/js/main.7d9a2451.chunk.js"
   ]
 }
